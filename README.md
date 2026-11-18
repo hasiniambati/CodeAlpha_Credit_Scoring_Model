@@ -7,7 +7,7 @@ The Credit Scoring Model is a Machine Learning project that predicts whether a l
 This project uses the German Credit Risk Dataset and implements data preprocessing, feature engineering, machine learning model training, evaluation, and deployment through a Streamlit web application.
 
 
-🌐 **Live Demo:** [View Live Streamlit Cloud Application](https://handwrittendigitrecognition1.streamlit.app/)
+🌐 **Live Demo:** [View Live Streamlit Cloud Application](https://codealphacreditscoringmodel-jxx4wjfyuah5u7vdyhrqby.streamlit.app/)
 
 ---
 
